@@ -12,6 +12,7 @@ from __future__ import unicode_literals
 import pandas as _pd
 import numpy as _np
 import warnings as _warnings
+import matplotlib
 
 
 def _get_power_df(bootstrap_result_list):
